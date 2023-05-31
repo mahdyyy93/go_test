@@ -1,2 +1,2 @@
 # go_test
-It's just a Go gin test
+It's just a Go Gin test
